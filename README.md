@@ -8,6 +8,7 @@
   - Python : Python3, NumPy, Pandas, Seaborn, Matplotlib
   - Machine Learning: scikit-learn
   - Excel
+  - PowerBI
   - SQL
   
 ⚡ Besides a data enthusiast, I am also:
